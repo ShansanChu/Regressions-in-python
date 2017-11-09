@@ -1,5 +1,5 @@
 """
-this module is to do the assignents for week 6.
+this module is to do the assignents for week 6. To query the K nearest neighbors for small data set
 """
 import pandas
 import numpy as np
