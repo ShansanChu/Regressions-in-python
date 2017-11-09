@@ -1,5 +1,5 @@
 """
-   this module is to do the second assignment
+   this module is to do the second assignment which implementing the Ridge regression.
 """
 import pandas
 import numpy as np
